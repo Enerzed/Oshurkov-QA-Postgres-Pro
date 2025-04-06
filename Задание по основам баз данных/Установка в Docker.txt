@@ -1,0 +1,14 @@
+1. Открываем терминал:
+	docker pull postgres 
+	docker run --name docker_postgres -e POSTGRES_PASSWORD=nikita -d postgres
+	/*
+	 * Первая команда загружает образ.
+	 * Вторая команда запускает контейнер
+	 */
+2. Открываем запущенный конейтер и подключаемся к psql:
+	psql --username=postgres
+3. После этого можно создать базу academy:
+	CREATE DATABASE academy;
+	\q
+4. Снова заходим только в нашу новую базу данных:
+	psql -username=postgres --dbname=academy
