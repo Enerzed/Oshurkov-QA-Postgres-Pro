@@ -50,5 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-out/
+'Задание по основам баз данных/generate_sql/out
+'Задание по основам баз данных/generate_sql/.vs
 CMakeLists.json
