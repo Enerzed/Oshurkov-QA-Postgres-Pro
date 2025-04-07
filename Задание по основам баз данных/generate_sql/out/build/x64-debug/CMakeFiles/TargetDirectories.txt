@@ -1,3 +1,0 @@
-C:/Users/laske/source/repos/generate_sql/out/build/x64-debug/CMakeFiles/generate_sql.dir
-C:/Users/laske/source/repos/generate_sql/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/laske/source/repos/generate_sql/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
